@@ -9,7 +9,7 @@ LiSG: Linux Survival Guide
    :depth: 3
 ..
 
-This document is released under the ``CC BY-SA-NC 4.0`` license.
+This document is released under the ``AGPL-v3.0`` license.
 
 Foundamental Survival Skills Under Linux
 ========================================
